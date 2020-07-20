@@ -1,0 +1,123 @@
+body{
+
+    margin: 0;
+    
+    font-family: sans-serif;
+    
+    }
+        
+img {
+     max-width: 100%;
+     max-height: 100%;
+        }
+        
+hr{
+    
+height: 4.5px;
+    
+border-width:0;
+    
+color: #988e8e;
+    
+background-color: #f1eded;
+}        
+.header{
+    
+    text-align: center;
+    
+    font-size: larger;
+    
+    }
+    
+.gimg{
+        height: 73px;
+        width: 78px;
+         }
+        
+h2{
+            
+     font-size: 39px;
+     word-spacing: 3px;
+     line-height: 1.4;
+        }
+        
+.org{
+        
+        color: #6388c5;
+        
+        }
+        
+.inf{
+        
+        color: #d24242;
+        
+        }
+        
+.unac{
+        
+        color: #6eb76e;
+        
+        }
+        
+.use{
+             
+    color: #f7ac22;
+         }
+    
+         .container{
+    
+    margin-top: 50px;
+    
+    margin-left: 120px;
+    
+    margin-right: 120px;
+    }
+    
+    .group{
+        
+    }
+    
+         /* Set a budge */
+h1{
+    
+text-shadow: 0,0,0px red;
+    
+color: black;
+    
+text-shadow: 2px 2px 9px #000000;
+    }
+    
+  p{
+    
+    font-size: 12px;
+    
+    color: #716a6a;
+    
+    line-height: 1.5;
+    }
+    
+.finsh{
+             
+margin-left: 120px;
+             
+margin-right: 120px;
+             
+background: #64ad64;
+             
+color: white;
+             
+padding: 61px;
+             
+text-align: center;
+             
+font-size: 34px;
+             
+margin-top: 30px;
+             
+margin-bottom: 30px;
+             
+color: #ecdde8;
+             
+text-shadow: 2px 2px 9px #791e1e;
+         }
+
